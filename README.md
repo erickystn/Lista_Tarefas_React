@@ -12,7 +12,7 @@
 
 O site pode ser acesso através do link:
 
-[de-codificador-indol.vercel.app](https://de-codificador-indol.vercel.app/)
+[https://lista-tarefas-react-ericky.vercel.app/](https://lista-tarefas-react-ericky.vercel.app/)
 
 ## Tecnologias e Ferramentas
 

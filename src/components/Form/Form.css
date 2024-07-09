@@ -1,0 +1,31 @@
+form{
+    display: flex;
+}
+
+form input[type="text"]{
+    height: 40px;
+    flex:1;
+    padding: 0 20px;
+    border-radius:  10px 0 0 10px ;
+    outline: none;
+    border: 1px solid #7180B9;
+}
+
+form input[type="text"]:focus{
+    border: 2px solid #7180B9;
+}
+
+form button {
+    height: 40px;
+    padding: 0 20px ;
+    background-color: #7180B9;
+    border: none;
+    border-radius: 0 10px 10px 0;
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+form button:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,43 @@
+.lista {
+  margin-top: 40px;
+}
+
+.lista li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+.lista li:hover {
+  background-color: #f7f9f2;
+}
+.lista .item-name {
+  flex: 1;
+  padding-right: 16px;
+}
+
+.lista span {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.lista li .edit:hover,
+.lista li .delete:hover {
+  cursor: pointer;
+  filter: contrast(0.85);
+}
+
+.lista li .edit {
+  background-color: blue;
+  color: white;
+  padding: 3px;
+  font-size: 22px;
+  border-radius: 5px;
+  margin-right: 16px;
+}
+
+.lista li .delete {
+  color: red;
+  font-size: 24px;
+}

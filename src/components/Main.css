@@ -1,0 +1,13 @@
+.main{
+    max-width: 650px;
+    background-color: #EEF8FF;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.main h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
